@@ -1,8 +1,16 @@
 def solution(A):
-    """
-    TODO: Implement solution
-    """
-    pass
+    count = {}
+    result = []
+    for num in A:
+        current = 0
+        for j in range(1, num + 1):
+            if num % j == 0 and j in count:
+                current += count[j]
+
+        count[num] = count.get(num, 0) + 1
+        result.append(current)
+
+    return result
 
 
 if __name__ == "__main__":
