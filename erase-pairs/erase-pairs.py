@@ -21,10 +21,8 @@ def solution(S):
     return "".join(stack)
 
 
-print(solution("CBCAAXA"))  # BAX
-print(solution("ABACCXC"))  # BCX
-print(solution("ZYXZYZY"))  # XYZ
-print(solution("XXZYXZYZY"))  # XYZ
-print(solution("ABBBCCC"))  # ABC
-print(solution("ABCBACDDAA"))  #
-print(solution("AKFKFMOGKFB"))  # AFKMOGB
+if __name__ == "__main__":
+    print(solution("CBCAAXA"))  # "BAX"
+    print(solution("ZYXZYZY"))  # "XYZ"
+    print(solution("ABCBACDDAA"))  # ""
+    print(solution("AKFKFMOGKFB"))  # "AFKMOGB"

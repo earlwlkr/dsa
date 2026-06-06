@@ -6,5 +6,4 @@ def solution(S, grid):
 
 
 if __name__ == "__main__":
-    # Test cases
-    pass
+    print(solution("ABCA", [".A.C", "B...", "....", "...A"]))  # 6

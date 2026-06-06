@@ -6,5 +6,5 @@ def solution(A):
 
 
 if __name__ == "__main__":
-    # Test cases
+    # Example inputs are shown only in the source screenshots.
     pass

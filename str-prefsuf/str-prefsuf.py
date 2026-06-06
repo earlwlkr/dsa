@@ -6,5 +6,5 @@ def solution(S):
 
 
 if __name__ == "__main__":
-    # Test cases
-    pass
+    print(solution("abbabba"))  # 4
+    print(solution("codility"))  # 0

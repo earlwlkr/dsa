@@ -6,5 +6,4 @@ def solution(S):
 
 
 if __name__ == "__main__":
-    # Test cases
-    pass
+    print(solution("banana"))  # 3

@@ -6,5 +6,5 @@ def solution(A):
 
 
 if __name__ == "__main__":
-    # Test cases
-    pass
+    print(solution([3, 7, 2, 5, 4]))  # e.g. "RGBBR"
+    print(solution([3, 6, 9]))  # "impossible"
