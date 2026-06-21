@@ -1,10 +1,5 @@
 # WordGame
 
-Source screenshots:
-
-- [word-game-1.jpg](word-game-1.jpg)
-- [word-game-2.jpg](word-game-2.jpg)
-
 Count well-structured anagrams of a given word.
 
 ## Description

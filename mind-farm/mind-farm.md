@@ -1,11 +1,5 @@
 # MindFarm
 
-Source screenshots:
-
-- [mind-farm-1.jpg](mind-farm-1.jpg)
-- [bird-wind-turbines-2.jpg](bird-wind-turbines-2.jpg)
-- [mind-farm-3.jpg](mind-farm-3.jpg)
-
 Given a map, count the maximum number of wind turbines that can be built without disturbing any habitats.
 
 ## Description

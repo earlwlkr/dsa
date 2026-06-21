@@ -1,7 +1,5 @@
 # ErasePairs
 
-Source screenshot: [erase-pairs.jpg](erase-pairs.jpg)
-
 Create the shortest possible string by erasing pairs of identical letters in a given string.
 
 ## Description
