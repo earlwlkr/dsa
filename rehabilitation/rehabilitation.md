@@ -1,7 +1,5 @@
 # Rehabilitation
 
-Source screenshot: [rehabilitation.png](rehabilitation.png)
-
 Find the minimum cost of rehabilitation that consists of a specific number of sessions.
 
 ## Description

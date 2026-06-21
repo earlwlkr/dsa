@@ -1,10 +1,5 @@
 # LettersGrid
 
-Source screenshots:
-
-- [letters-grid-1.png](letters-grid-1.png)
-- [letters-grid-2.png](letters-grid-2.png)
-
 Find an optimal path to create a word using letters from a 2D array.
 
 ## Description

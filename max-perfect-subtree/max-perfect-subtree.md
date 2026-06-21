@@ -1,10 +1,5 @@
 # MaxPerfectSubtree
 
-Source screenshots:
-
-- [max-perfect-subtree-1.png](max-perfect-subtree-1.png)
-- [max-perfect-subtree-2.png](max-perfect-subtree-2.png)
-
 Given a tree, find the number of nodes in the biggest perfect subtree.
 
 ## Description

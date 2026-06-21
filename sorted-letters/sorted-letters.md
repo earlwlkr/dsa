@@ -1,7 +1,5 @@
 # SortedLetters
 
-Source screenshot: [sorted-letters.png](sorted-letters.png)
-
 Given a string, remove as few letters as possible to yield a word whose letters are sorted in ascending order.
 
 ## Description

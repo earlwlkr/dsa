@@ -1,7 +1,5 @@
 # NiceTrees
 
-Source screenshot: [nice-trees-1.png](nice-trees-1.png)
-
 Find the minimum number of trees that need to be shortened so that the heights of all of them increase and decrease alternately.
 
 ## Description

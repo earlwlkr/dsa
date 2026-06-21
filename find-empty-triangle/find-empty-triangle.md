@@ -1,10 +1,5 @@
 # FindEmptyTriangle
 
-Source screenshots:
-
-- [find-empty-triangle-1.png](find-empty-triangle-1.png)
-- [find-empty-triangle-2.png](find-empty-triangle-2.png)
-
 Given points on a plane, find any triplet that forms a triangle that does not have any points inside.
 
 ## Description

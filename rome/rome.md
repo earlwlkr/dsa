@@ -1,10 +1,5 @@
 # Rome
 
-Source screenshots:
-
-- [rome-1.png](rome-1.png)
-- [rome-2.png](rome-2.png)
-
 Given a map with directed roads, return the id of the city that is reachable from all other cities.
 
 ## Description

@@ -1,10 +1,5 @@
 # TwoSquareSolarPanels
 
-Source screenshots:
-
-- [two-square-solar-panels-1.png](two-square-solar-panels-1.png)
-- [two-square-solar-panels-2.png](two-square-solar-panels-2.png)
-
 Find the biggest square that appears twice on a given map.
 
 ## Description

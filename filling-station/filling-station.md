@@ -1,10 +1,5 @@
 # FillingStation
 
-Source screenshots:
-
-- [filling-station-1.png](filling-station-1.png)
-- [filling-station-2.png](filling-station-2.png)
-
 Calculate the time needed to tank up a queue of cars at a filling station.
 
 ## Description

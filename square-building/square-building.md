@@ -1,10 +1,5 @@
 # SquareBuilding
 
-Source screenshots:
-
-- [square-building-1.png](square-building-1.png)
-- [square-values-2.png](square-values-2.png)
-
 Find the biggest square that can be constructed from the given segments, knowing they can be merged but cannot be cut into smaller pieces.
 
 ## Description

@@ -1,7 +1,5 @@
 # StringInsertions
 
-Source screenshot: [string-insertions.png](string-insertions.png)
-
 Insert `$` characters into a string until there is at least one `$` between every pair of repeated letters.
 
 ## Description

@@ -1,7 +1,5 @@
 # StrPrefsuf
 
-Source screenshot: [str-prefsuf.png](str-prefsuf.png)
-
 For a given word `S`, find the length of the longest prefix of `S` such that it is also a suffix of `S`.
 
 ## Description

@@ -1,11 +1,5 @@
 # MaxTrailingZeros
 
-Source screenshots:
-
-- [max-trailing-zeros-1.png](max-trailing-zeros-1.png)
-- [max-trailing-zeros-2.png](max-trailing-zeros-2.png)
-- [max-trailing-zeros-3.png](max-trailing-zeros-3.png)
-
 Find a path in a given matrix of integers such that the product of all the numbers on the path has the maximum number of trailing zeros.
 
 ## Description

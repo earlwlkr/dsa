@@ -1,7 +1,5 @@
 # SameCorners
 
-Source screenshot: [same-corners.png](same-corners.png)
-
 Given an array, find the subarray with the largest sum in which the leftmost and rightmost elements are the same.
 
 ## Description

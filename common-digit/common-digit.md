@@ -1,7 +1,5 @@
 # CommonDigit
 
-Source screenshot: [common-digit.png](common-digit.png)
-
 Choose as many numbers as possible so that every pair has a common digit.
 
 ## Description

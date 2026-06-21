@@ -1,7 +1,5 @@
 # SumOfThree
 
-Source screenshot: [sum-of-three.png](sum-of-three.png)
-
 Choose three non-adjacent array elements with a maximum sum.
 
 ## Description

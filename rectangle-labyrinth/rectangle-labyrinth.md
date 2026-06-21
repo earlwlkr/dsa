@@ -1,10 +1,5 @@
 # RectangleLabyrinth
 
-Source screenshots:
-
-- [rectangle-labyrinth-1.png](rectangle-labyrinth-1.png)
-- [obstacle-path-2.png](../rehabilitation/obstacle-path-2.png)
-
 Given a list of coordinates of rectangular obstacles placed on a board, find the shortest path from the bottom-left to the top-right corner of the board.
 
 ## Description

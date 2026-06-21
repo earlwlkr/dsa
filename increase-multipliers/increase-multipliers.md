@@ -1,7 +1,5 @@
 # IncreaseMultipliers
 
-Source screenshot: [increase-multipliers.png](increase-multipliers.png)
-
 For every element of an array of integers, calculate the number of preceding elements that are its divisors.
 
 ## Description

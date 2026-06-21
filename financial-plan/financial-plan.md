@@ -1,7 +1,5 @@
 # FinancialPlan
 
-Source screenshot: [financial-plan.png](financial-plan.png)
-
 How many expenses must be rescheduled to the end of the year so that the company does not fall into debt?
 
 ## Description

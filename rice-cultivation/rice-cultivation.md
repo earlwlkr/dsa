@@ -1,10 +1,5 @@
 # RiceCultivation
 
-Source screenshots:
-
-- [rice-cultivation-1.png](rice-cultivation-1.png)
-- [pattern-grid-2.png](../tricoloring/pattern-grid-2.png)
-
 Count the maximum number of unblocked cells on a given board that can be covered by two non-intersecting stripes.
 
 ## Description

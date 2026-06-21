@@ -1,7 +1,5 @@
 # Tricoloring
 
-Source screenshot: [tricoloring.png](tricoloring.png)
-
 Divide an array into three parts with equal sums.
 
 ## Description
